@@ -6,8 +6,6 @@ This project simulates a real-world **E-commerce system** built using **MySQL Wo
 
 It manages **customers, products, orders, payments, and inventory**, and provides **business insights** through SQL queries.
 
-Designed as a **portfolio project**, it showcases database design, SQL querying, and reporting skills—similar to internal data systems used by companies.
-
 ---
 
 ## 🛠️ Tech Stack
